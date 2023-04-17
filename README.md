@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on with android devs.
 - 💬 Ask me about Android Jetpack · Android SDK · Kotlin · Java · Android · iOS · Android Studio
 
+- ⚡ Fun fact: I love hiking and the image at top is taking in one of my hikes! 
+
 <!--
 **AnelCC/AnelCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
