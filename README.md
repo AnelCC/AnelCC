@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as Senior Lead Software Engineer
 - 🌱 I’m currently learning compose views
 - 👯 I’m looking to collaborate on with android devs.
-- 💬 Ask me about Android Jetpack · Android SDK · Kotlin · Java · Android · iOS · Android Studio
+- 💬 Ask me about Android Jetpack · Android SDK · Kotlin · Java · Android · iOS · Android Studio · Retrofit · MVVM · View Models · DataModel · Glide · Gson · Moshi Kotlin · Androidx Preference · Coroutines · Support for Room.
 
 - ⚡ Fun fact: I love hiking and the image at top is taking in one of my hikes! 
 
